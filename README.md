@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Linalzaben
-- 👀 I’m interested in Fullstack web develpoer ~ Django ~ ReactJs ~ AngularJs
+- 👀 I’m interested in Web Developer ~ Django ~ ReactJs ~ AngularJs
 - 🌱 I’m currently learning SQL database 
-- 📫 How to reach me at LinkedIn username leena al zaben
+- 📫 How to reach me at LinkedIn username leena al Zaben
 
 
 <!---
